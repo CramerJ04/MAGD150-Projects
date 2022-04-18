@@ -1,6 +1,6 @@
 # MAGD 150 Projects 
 
-## Below is links to each of the projects within MAGD 150, 1-10
+## Below is links to each of the projects within MAGD 150, 1-10.
 ## The entire folder is linked, based on your needs of viewing the selected folder:
 
 ## Project 1: [1](https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150lab01_cramer)
