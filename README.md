@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# MAGD 150 Projects 
 
-You can use the [editor on GitHub](https://github.com/CramerJ04/MAGD150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Below is links to each of the projects within MAGD 150, 1-10
+## The entire folder is linked, based on your needs of viewing the selected folder:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 1: [1] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150lab01_cramer)
+## Project 2: [2] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150lab02_Cramer)
+## Project 3: [3] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/%20s22magd150lab03_Cramer)
+## Project 4: [4] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/Sunset_spectroscope_2022_02_26_19_24_26)
+## Project 5: [5] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150lab05_Cramer)
+## Project 6: [6] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/Unequaled_lightning_2022_03_11_03_23_28)
+## Project 7: [7] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/Atlantic_wasabi_2022_03_28_02_09_20)
+## Project 8: [8] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150_lab08_Cramer)
+## Project 9: [9] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/Fossil_harpymimus_2022_04_06_20_51_30)
+## Project 10: [10] (https://github.com/CramerJ04/MAGD150-Projects/tree/gh-pages/s22magd150lab10_Cramer)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CramerJ04/MAGD150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
